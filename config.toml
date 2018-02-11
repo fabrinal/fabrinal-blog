@@ -1,0 +1,35 @@
+baseURL = "https://fabrinal.github.io"
+languageCode = "en-us"
+title = "Sharing Is Caring"
+theme = "hemingway2"
+copyright = "&copy; <a href=\"https://github.com/fabrinal\">fabrinal</a> 2018"
+disqusShortname = "fabian_rinaldi"
+googleAnalytics = ""
+description = "A mix of business analyst and full stack developer"
+keywords = ["business", "developer"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://medium.com/@fabrinal"
+fa_icon = "fa-medium"
+
+[[params.social]]
+url = "https://github.com/fabrinal"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/fabrinal"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
