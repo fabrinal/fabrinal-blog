@@ -4,7 +4,7 @@ title = "Sharing Is Caring"
 theme = "hemingway2"
 copyright = "&copy; <a href=\"https://github.com/fabrinal\">fabrinal</a> 2018"
 disqusShortname = "fabian_rinaldi"
-googleAnalytics = ""
+googleAnalytics = "UA-113866909-1"
 description = "A mix of business analyst and full stack developer"
 keywords = ["business", "developer"]
 
